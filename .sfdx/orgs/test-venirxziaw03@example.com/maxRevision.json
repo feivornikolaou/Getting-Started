@@ -1,0 +1,59 @@
+{
+  "serverMaxRevisionCounter": 63,
+  "sourceMembers": {
+    "FlexiPage__Account_Record_Page": {
+      "serverRevisionCounter": 56,
+      "lastRetrievedFromServer": null,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__myFirstWebComponent": {
+      "serverRevisionCounter": 1,
+      "lastRetrievedFromServer": null,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__myFirstWebComponent/myFirstWebComponent.html": {
+      "serverRevisionCounter": 4,
+      "lastRetrievedFromServer": null,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__myFirstWebComponent/myFirstWebComponent.js": {
+      "serverRevisionCounter": 2,
+      "lastRetrievedFromServer": null,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__myFirstWebComponent/myFirstWebComponent.js-meta.xml": {
+      "serverRevisionCounter": 3,
+      "lastRetrievedFromServer": null,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "CustomObject__Account": {
+      "serverRevisionCounter": 57,
+      "lastRetrievedFromServer": null,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 62,
+      "lastRetrievedFromServer": 62,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "ApexClass__GettingStarted": {
+      "serverRevisionCounter": 63,
+      "lastRetrievedFromServer": 63,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "ApexClass__GettingStartedTest": {
+      "serverRevisionCounter": 61,
+      "lastRetrievedFromServer": 61,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    }
+  }
+}
